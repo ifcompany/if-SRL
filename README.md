@@ -19,7 +19,7 @@ $ cd if-SRL <br />
 $ python3 if-SRL.py</code>
 </pre>
 <br />
-<a href="https://t.me/Thelinkif">Telegram</a>
-<br />
-<a href="https://instagram.com/ifcompany.ir">Instagram</a>
-<br />
+<a href="https://t.me/Thelinkif">&nbsp;Telegram&nbsp;</a>
+<a href="https://instagram.com/ifcompany.ir">&nbsp;Instagram&nbsp;</a>
+<a href="https://www.youtube.com/channel/UCjc1xeBMu-mqXPSFSrzLEsg">&nbsp;Youtube&nbsp;</a>
+<a href="https://discord.gg/jdurtWw">&nbsp;Discord&nbsp;</a>
